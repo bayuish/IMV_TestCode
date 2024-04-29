@@ -1,4 +1,7 @@
 Test Code IMV Meliputi beberapa Materi
 - Python
+Basic Dasar Python
 - GIT dan Github
+Definisi dan pengaplikasikan Git dan Github pada sebuah Project
 - Image Processing
+Memulai Image Processing menggunakan Python
