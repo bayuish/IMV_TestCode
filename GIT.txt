@@ -1,0 +1,6 @@
+Version Control System = adalah Sebuah Service untuk menyimpan segala perubahan dalam sebuab File, Program DLL
+Git = adalah sebuah Aplikasi untuk menjalankan GIT.
+
+    -- Istilah dalam GIT --
+    1. 
+    
