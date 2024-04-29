@@ -8,4 +8,6 @@ Git = adalah sebuah Aplikasi untuk menjalankan GIT.
     4. Remote = Adalah Tempat Repostory kita berada
     4. Clone = Ketika kita ingin memngambil Reposity
 
+-- Praktek GIT 2 --
+
     
