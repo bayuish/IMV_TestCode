@@ -2,5 +2,10 @@ Version Control System = adalah Sebuah Service untuk menyimpan segala perubahan 
 Git = adalah sebuah Aplikasi untuk menjalankan GIT.
 
     -- Istilah dalam GIT --
-    1. 
+    1. Snapshot = Adalah Sebuah Perubahan yang telah kita Commit
+    2. Commit = Adalah Metoda untuk Save perubahan yg kita lakukan
+    3. Branch = Adalah Sebuah cabang yang pada Commit kita
+    4. Remote = Adalah Tempat Repostory kita berada
+    4. Clone = Ketika kita ingin memngambil Reposity
+
     
